@@ -1,0 +1,22 @@
+#mainLogo{
+  float: left;
+}
+#del{
+  float: left;
+}
+#caption{
+  float: left;
+}
+.contact{
+  float: right;
+  margin-left: 1.05em;
+}
+#print{
+  float: right;
+}
+p{
+  font-size: .5em;
+}
+body{
+  
+}
