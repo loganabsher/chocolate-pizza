@@ -2,7 +2,11 @@
   float: left;
 }
 #del{
-  float: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  font-family: 'Mr Bedfort', cursive;
+  font-size: 2em;
 }
 #caption{
   float: left;
@@ -17,6 +21,27 @@
 p{
   font-size: .5em;
 }
-body{
-  
+html{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#listImg{
+  background-image: url('img/list-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+footer{
+  margin-top: 5%;
+}
+p{
+  color: lightgrey;
+}
+fieldset{
+  border: none;
+}
+#best{
+  margin-top: 0px;
+  margin-left: 10px;
+  font-family: 'Orbitron', sans-serif;
 }
